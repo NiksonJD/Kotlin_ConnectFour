@@ -1,2 +1,2 @@
-# Kotlin_Tamplate
+Kotlin Connect Four
 
